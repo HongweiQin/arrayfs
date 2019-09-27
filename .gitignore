@@ -1,0 +1,3 @@
+.cache.mk
+Module.symvers
+arrayfs.ko
